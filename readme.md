@@ -1,5 +1,10 @@
-Photo mosaic
+Photo Mosaic - Canva Android Engineer interview challenge
 ------------
+See the [original solution and readme](https://github.com/KaroCodes/CanvaChallenge/tree/main/android_original) for more details around my implementation of the below Canva Android interview challange.
+
+*Please note: this challange is no longer used in the Canva interview process and is presented here for educational purposes only. See [this video on my YouTube channel (KaroCodes)](https://youtu.be/rpmPeFzEAEs) to learn more about interviewing at Canva.*
+
+### PhotoMosaic challenge
 
 The goal of this task is to implement the following flow in an android app.
 This task should take around 3-5 hours, there is no hard limit,
