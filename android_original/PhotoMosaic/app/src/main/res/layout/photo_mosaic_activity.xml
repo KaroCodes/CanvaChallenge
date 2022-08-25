@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/lightGray"
+    tools:context="com.karolinapawlikowska.photomosaic.activities.PhotoMosaicActivity">
+
+    <Button
+        android:id="@+id/select_image_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:textColor="@android:color/white"
+        android:layout_margin="@dimen/standard_margin"
+        android:textSize="@dimen/normal_font"
+        android:text="@string/select_image_button"/>
+
+    <LinearLayout
+        android:id="@+id/image_placeholder"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="@dimen/standard_margin"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"/>
+
+    <TextView
+        android:id="@+id/status_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:padding="@dimen/small_margin"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/medium_font"
+        android:text="@string/select_image_message"/>
+
+</LinearLayout>

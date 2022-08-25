@@ -1,3 +1,10 @@
+# --- Mac ---
+.DS_Store
+**/.DS_Store
+
+
+# --- NPM ---
+
 # Logs
 logs
 *.log

@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+
+    <dimen name="medium_font">16sp</dimen>
+    <dimen name="normal_font">19sp</dimen>
+</resources>

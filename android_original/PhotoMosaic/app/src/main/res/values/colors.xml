@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E57661</color>
+    <color name="colorPrimaryDark">#7B2A3B</color>
+    <color name="colorAccent">#4281A4</color>
+
+    <color name="colorButton">#4281A4</color>
+    <color name="colorButtonPressed">#9CAFB7</color>
+
+    <color name="lightGray">#EEEEEE</color>
+
+    <!-- messages background-->
+    <color name="progressMessage">#EBAF20</color>
+    <color name="errorMessage">#C33024</color>
+    <color name="completedMessage">#1DC34E</color>
+</resources>
